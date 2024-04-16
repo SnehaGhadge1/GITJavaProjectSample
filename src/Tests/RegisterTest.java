@@ -8,6 +8,7 @@ public class RegisterTest {
 
 		ResgisterPage r = new ResgisterPage();
 		r.getNumber();
+		r.getCity();
 
 	}
 
